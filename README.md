@@ -1,6 +1,6 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 05/12/2024
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -34,21 +34,27 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+![1234_1]![WhatsApp Image 2024-12-04 at 21 33 34_c602db1b](https://github.com/user-attachments/assets/f9bf4d54-c344-491b-9ece-a4cc2560f708)
+
+![1234_2]![WhatsApp Image 2024-12-04 at 21 33 34_59e2594c](https://github.com/user-attachments/assets/5357fb7b-9a3b-4eae-bff3-269164b997a8)
+
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+![1234_1]![WhatsApp Image 2024-12-04 at 21 33 35_0f424e11](https://github.com/user-attachments/assets/201eb043-a513-444a-bd9d-f665d046e848)
+
+![1234_2]![WhatsApp Image 2024-12-04 at 21 33 35_dd3cbfab](https://github.com/user-attachments/assets/c01b8652-5427-494e-bd12-13481e0c5312)
+
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+![123_1]![WhatsApp Image 2024-12-04 at 21 33 36_8525bb52](https://github.com/user-attachments/assets/fedc65eb-91c1-43d9-8818-bd27bb06ff51)
 
-## Output:
+![123_2]![WhatsApp Image 2024-12-04 at 21 33 36_07a9579e](https://github.com/user-attachments/assets/59abac54-77a4-44b1-8af2-6196aeeadb9c)
 
-### Name:
-### Register Number:
+
+
+
+### Name:Magesh S
+### Register Number:24900241
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
